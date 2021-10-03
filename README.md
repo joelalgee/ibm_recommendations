@@ -1,4 +1,4 @@
-# IBM Watson Studio Article Recommendations
+# IBM Watson Studio Article Recommendations - June 2021
 
 Recommending articles on the IBM Watson Studio platform, using Python
 
